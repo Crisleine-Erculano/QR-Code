@@ -10,10 +10,27 @@ body{
     font-family:  'Outfit', sans-serif;
     display: flex;
     align-items: center;
-    justify-content: center;
+    height: 100vh;/* Coloquei altura pra conseguir centralizar a div no eixo y*/
+    
 }
 .conteiner{
+    padding: 20px;
     width: 350px;
     margin: 0 auto;
     background-color: hsl(0, 0%, 100%);
+    border-radius: 17px;
+}
+.img{
+    width: 100%;
+    border-radius: 11px;
+}
+.texto{
+    padding: 15px;
+}
+.titulo{
+    color:hsl(218, 44%, 22%);
+}
+.paragrafo{
+    color: hsl(220, 15%, 55%);
+    padding: 16px 1rem 0px 1rem;
 }
