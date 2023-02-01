@@ -11,6 +11,6 @@ Para acessar o resultado segue o link abaixo:
 - [GitHub Pages](https://pages.github.com/)
 
 Meus contatos:
-- **Email: candidocrislaine576@gmail.com
--[Linkedin](https://www.linkedin.com/in/crisleine-erculano)
+ **Email: candidocrislaine576@gmail.com
+-[Linkedin](https://www.linkedin.com/in/crisleine-erculano).
 
