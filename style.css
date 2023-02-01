@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2? family= Anton & family= Bebas+Neue & family= Fascinate & family= Inter:wght@300 & family= Kdam+Thmor+Pro & family= Montserrat & family= Outfit:wght@400;700 & family= Vollkorn:ital@1 & display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-family:  'Outfit', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.conteiner{
+    width: 350px;
+    margin: 0 auto;
+    background-color: hsl(0, 0%, 100%);
+}
